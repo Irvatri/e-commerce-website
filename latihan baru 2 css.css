@@ -42,7 +42,7 @@
 }
 
 .hero {
-    background-image: url(gambar/seaptu 1.jpg);
+    background-image: url('bg.jpg);
     height: 500px;
     text-align: center;
     padding: 100px 20px;
